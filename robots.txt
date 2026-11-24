@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://simulasi1.bintangtimurprestasi.com/?sitemapindex.xml
+Sitemap: http://simulasi1.bintangtimurprestasi.com/?sitemap25.xml
+Sitemap: http://simulasi1.bintangtimurprestasi.com/?sitemap822.xml
+Sitemap: http://simulasi1.bintangtimurprestasi.com/?sitemap556.xml
+Sitemap: http://simulasi1.bintangtimurprestasi.com/?sitemap848.xml
+Sitemap: http://simulasi1.bintangtimurprestasi.com/?sitemap607.xml
+Sitemap: http://simulasi1.bintangtimurprestasi.com/pages.php?sitemap208.xml
